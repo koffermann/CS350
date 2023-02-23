@@ -12,6 +12,7 @@
 <br> <b>What tools and/or resources are you adding to your support network?</b>
 <br>
 <br> <b>What skills from this project will be particularly transferable to other projects and/or course work?</b>
+<br> This project--and, really, this entire course--is my first time connecting software with hardware. The skills I developed from putting the two together really put into perspective what programming can accomplish. I think working with a microcontroller really opened my eyes to other fields within computer science. I can definitely see myself getting into something like Raspberry Pi and gaining experience in fields that utilize hardware rather than avoid them because I primarily studied software in school.
 <br>
 <br> <b>How did you make this project maintainable, readable, and adaptable?</b>
 <br>
