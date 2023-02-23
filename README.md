@@ -1,6 +1,5 @@
 # CS350
-<br>
-<br>
+
 <br><b>Summarize the project and what problem it was solving.</b>
 <br> The goal of the project was to create a thermostat that was able to detect room temperatures every second as well as check the status of the buttons pressed to either increase or decrease the setpoint temperature (much like setting a default temperature on a thermostat at home). If the room temperature went above the setpoint then a message would be sent to our simulated server that the heat is on. If the room temperature dropped below the setpoint, though, then a light would turn on. The goal was to create this thermostat for a company that would eventually want the data sent over wi-fi to the cloud.
 <br>
