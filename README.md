@@ -10,9 +10,10 @@
 <br> I could have improved on creating a functioning loop that would continuously decrease or increase the setpoint temperature with one button press instead of having to repeatedly press button 0 or button 1. I struggled with this portion a lot. It made me realize that I really need to brush up on my C++ and recap on concepts I learned in the past so that it will not hinder me as I learn new things.
 <br>
 <br> <b>What tools and/or resources are you adding to your support network?</b>
+<br> I mentioned this in a previous discussion post, but StackOverflow is a big part of my support network. It is a reliable way to not only learn from more experienced programmers, but to also connect with fellow programmers to learn what is new in the Computer Science world and stay knowledgeable about major changes in the field. I also regularly rely on YouTube tutorials in order to connect what I am learning with visuals that videos can provide. The comment section of YouTube can also function like StackOverflow at times since some comments provide useful insight on different things.
 <br>
 <br> <b>What skills from this project will be particularly transferable to other projects and/or course work?</b>
 <br> This project--and, really, this entire course--is my first time connecting software with hardware. The skills I developed from putting the two together really put into perspective what programming can accomplish. I think working with a microcontroller really opened my eyes to other fields within computer science. I can definitely see myself getting into something like Raspberry Pi and gaining experience in fields that utilize hardware rather than avoid them because I primarily studied software in school.
 <br>
 <br> <b>How did you make this project maintainable, readable, and adaptable?</b>
-<br>
+<br> I made this project maintainable, readable, and adaptable by first doing my best to leave ample comments in the code. Especially after being away from the code for a long while, comments can serve as reminders. Comments are also lifesavers in group/team settings where code is constantly being passed around from person to person. It helps to know what each person had in mind when adding (or removing) code.
